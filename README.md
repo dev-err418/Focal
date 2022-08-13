@@ -1,6 +1,6 @@
 # Focal - Video Portrait Mode
 
-Focal is a simple website built with p5 and ml5. Is uses bodypix.
+Focal is a simple website built with p5 and ml5. It uses bodypix.
 
 Check it out : https://portrait-mode.pages.dev/ (If your computer is too slow, it may be very laggy.)
 
